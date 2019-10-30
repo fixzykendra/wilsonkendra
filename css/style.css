@@ -1,0 +1,43 @@
+/* universal style */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar style */
+nav{
+    height: 30px;
+    background-color: rgb(209, 98, 98);
+}
+
+nav .logo{
+    float: left;
+}
+.wilson{
+    height: 30%;
+    
+ }
+
+
+nav .logo span{
+    color: rgb(113, 41, 194);
+}
+
+nav ul{
+    float: right;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0 5px;
+}
+body{
+    background-color: burlywood;
+
+}
+
